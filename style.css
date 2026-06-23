@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+.box{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px;
+    background: linear-gradient(to bottom left ,red, yellow);
+}
+.boxx{
+    background: linear-gradient(rgba(128, 128, 128, 0.486)), url(https://www.w3schools.com/w3images/kitchenconcrete.jpg);
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+.boxx:hover{
+    background: linear-gradient(rgba(255, 255, 255, 0.129)), url(https://www.w3schools.com/w3images/kitchenconcrete.jpg);
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
